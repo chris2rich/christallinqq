@@ -1,41 +1,11 @@
 ### christallinqq
 
-<?php
 
-namespace AshBaker;
 
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Qquicker',
-                'position' => 'Founder'         
-            ]
-        ];
-    }
+[![trophy](https://github-profile-trophy.vercel.app/?username=christallinqq&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Vuejs::class,
-            Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
-        ];
-    }
 
-    public function getFutureGoal(): string
-    {
-        return 'To contribute to open source.';
-    }
-}
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=christallinqq&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christallinqq&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
