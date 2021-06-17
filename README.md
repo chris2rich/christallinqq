@@ -11,7 +11,7 @@
 
   
  ![](https://komarev.com/ghpvc/?username=christallinqq&label=PROFILE+VIEWS)
-         Count started 6/17/21
+Count started 6/17/21
 <!--
 **christallinqq/christallinqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
