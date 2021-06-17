@@ -1,8 +1,7 @@
 ### christallinqq
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7mzlfnetkcip5pt62k4ib8sh7&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa)](https://github.com/kittinan/spotify-github-profile)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christallinqq&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
