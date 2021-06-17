@@ -1,6 +1,12 @@
-### Hi there 👋
+### christallinqq
 
+<div> i've been coding for about 2 years now<div>
+
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 ![](https://komarev.com/ghpvc/?username=christallinqq&label=PROFILE+VIEWS)
+Count started 6/17/21
 <!--
 **christallinqq/christallinqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
